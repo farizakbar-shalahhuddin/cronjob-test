@@ -1,11 +1,8 @@
 name: Cron job test
-
 on:
   workflow_dispatch:
   schedule:
     - cron: '* * * * *'
-  # https://crontab.guru/
-
 jobs:
   test:
     runs-on: ubuntu-latest
