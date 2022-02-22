@@ -1,0 +1,19 @@
+{
+  "name": "cronjob-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farizakbar-shalahhuddin/cronjob-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farizakbar-shalahhuddin/cronjob-test/issues"
+  },
+  "homepage": "https://github.com/farizakbar-shalahhuddin/cronjob-test#readme"
+}
