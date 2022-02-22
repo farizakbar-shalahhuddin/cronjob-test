@@ -2,7 +2,7 @@ name: Cron job test
 
 on:
   schedule:
-  - cron: '0 * * * *'
+  - cron: '* * * * *'
   # https://crontab.guru/
 
 jobs:
